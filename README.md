@@ -1,2 +1,2 @@
-# DS-IN-C-
-This is just self reference.
+# DS In C++
+This is just for self reference.
